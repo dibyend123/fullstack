@@ -7,7 +7,7 @@ spring:
     config:
      server:
       native:
-        searchLocations: file:///usr/local/configure/licensesrvc,
-                         file:///usr/local/configure/orgsrvc
+        searchLocations: file:///home/smayan/projects/fullstack/configserver/src/main/resources/config/licensesrvc,
+                         file:///home/smayan/projects/fullstack/configserver/src/main/resources/config/orgsrvc
 
 
